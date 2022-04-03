@@ -1,7 +1,6 @@
 Hi, saya Imron Rosidi.
 
-Disini saya mendapatkan project untuk Modul I, dimana akan membuat study case yang memiliki 5 Field (Kolom / Keys) dengan 1 Unique Kolom, 
-dengan Tema Gudang-Data Stock.
+Disini saya mendapatkan project untuk Modul II, dimana akan Study Case Data Analysis mengenai database Sakila dengan fokus analisa kepada data film.
 
 Untuk video penjelasan sudah saya upload di GDrive saya : https://drive.google.com/drive/folders/1qFJM2JI0uyT7B1aTB_r7U924NlzL77r2?usp=sharing
 
